@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewWithPaging</string>
+    <string name="retry">Retry</string>
+</resources>
